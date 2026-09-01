@@ -1,0 +1,6 @@
+{
+  "name": "AI 영상 제작 & 편집 도구 모음",
+  "description": "영상 제작부터 편집, 음성, 자막까지 필요한 AI 도구를 한눈에 확인하는 교육용 가이드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
